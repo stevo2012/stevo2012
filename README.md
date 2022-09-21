@@ -1,10 +1,10 @@
 ### Hi there 👋 My name is Stephen Burns and I am aspiring to become a software engineer.
-#### - 🔭 Currently I am a recent graduate with a degree in Computer Science and am looking for any junior roles that will allow me to gain knowledge and experince in the world of backend software engineering. I have experience with Java, C++, and SQL.
-#### - 🌱 I am right now expanding my knowledge with eduction in JavaScript and Python.
-#### - 👀  I am intersted in any oppertunities for future employment in an envoriment that will allow me to both contribute and grow my own skills and knowledge
-#### - As of now I have developed two Android applications though would love to expand my knowledge 
-#### - 📫 How to reach me: stephenburns727@gmail.com
-#### - Direct link to my resume: https://github.com/stevo2012/stevo2012/blob/main/Stephen_General_Resume_2022.pdf
+- 🔭 Currently I am a recent graduate with a degree in Computer Science and am looking for any junior roles that will allow me to gain knowledge and experince in the world of backend software engineering. I have experience with Java, C++, and SQL.
+- 🌱 I am right now expanding my knowledge with eduction in JavaScript and Python.
+- 👀  I am intersted in any oppertunities for future employment in an envoriment that will allow me to both contribute and grow my own skills and knowledge
+- As of now I have developed two Android applications though would love to expand my knowledge 
+- 📫 How to reach me: stephenburns727@gmail.com
+- Direct link to my resume: https://github.com/stevo2012/stevo2012/blob/main/Stephen_General_Resume_2022.pdf
 
 <!--
 **stevo2012/stevo2012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
