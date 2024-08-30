@@ -4,7 +4,7 @@
 - 👀  I am intersted in any oppertunities for future employment in an envoriment that will allow me to both contribute and grow my own skills and knowledge
 - As of now I have developed two Android applications though would love to expand my knowledge 
 - 📫 How to reach me: stephenburns727@gmail.com
-- Direct link to my resume: https://github.com/stevo2012/stevo2012/blob/main/Stephen_Burns_Resume_2023.docx.pdf
+- Direct link to my resume: https://github.com/stevo2012/stevo2012/blob/main/Stephen_Resume_2024.pdf
 
 <!--
 **stevo2012/stevo2012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
